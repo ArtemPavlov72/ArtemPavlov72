@@ -1,7 +1,7 @@
 ### Hi there!
 My name is Artem and I live in the city of Tyumen in Siberia, Russia 👋
 
-I am a junior iOS developer, and I really like it.
+I am an iOS developer, and I really like it.
 
 <!--
 **ArtemPavlov72/ArtemPavlov72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
