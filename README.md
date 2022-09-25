@@ -1,7 +1,7 @@
 ### Hi there!
 My name is Artem and I live in the city of Tyumen in Siberia, Russia 👋
 
-I am a junior iOS-developer.
+I am a iOS-developer.
 
 At the moment I am looking for a job as iOS-developer. Ready to move. I know English at a sufficient level to speak, write and read.
 
