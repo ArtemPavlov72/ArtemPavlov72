@@ -1,11 +1,16 @@
-### Hi there!
-My name is Artem 👋
+Hi there!
 
-I'm IOS developer with 2+ years of total experience in IOS development, and 8+ months of commercial experience. 
+I'm a IOS developer with 1+ years of commercial experience in Swift) 
 
-Since april 2023 i have been taking part as IOS developer on the project Random-pro (https://random.sosinvitalii.com) with current stack: UIKit, VIPER, ApphudSDK, GTMSessionFetcher, Firebase, YandexMetrica, Lottie, GoogleDataTransport, Notifications, Keychain, Tuist, SPM.
-Link on GitHub: https://github.com/V1taS/Random-Pro
+---
+My stack 👉
+MVVM + Coordinator, MVVM + Boxing (Biding), Viper + Coordinator
+Moya, Alamofire, YandexMapsMobile, Tinkoff ASDK, Firebase, SnapKit
+Creating custom SPM 
+Tuist
+App Store Connect 
+Code Review
+Github, Gitlab, Fork, Postman
 
-I'm interested in projects with modern technology stack, where I can get commercial development experience, as well as get the opportunity to work in a cool team.
-In addition, I continue to improve my English with native teacher and I would like to continue to participate in an international team.
-I am considering a remote work and companies with the possibility of relocation.
+---
+Considering a remote work or relocation.
